@@ -6,6 +6,14 @@
         "price": 1500,
         "description": "Футуристичний екшн у відкритому світі з елементами RPG"
     },
+    
+    {
+        "id": 2,
+        "title": "Palworld",
+        "image": "Palworld_Steam_artwork.jpg",
+        "price": 600,
+        "description": "екшн у відкритому світі з елементами RPG"
+    },
 
     {
         "id": 3,
