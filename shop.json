@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "title": "Cyberpunk 2077",
+        "image": "1681308872_cover.jpg",
+        "price": 1500,
+        "description": "Футуристичний екшн у відкритому світі з елементами RPG"
+    },
+
+    {
+        "id": 3,
+        "title": "Grand Theft Auto V",
+        "image": "1668436193_cover.jpg",
+        "price": 1300,
+        "description": "Відкритий світ, злочинні пригоди та мультиплеєрний режим"
+    },
+    {
+        "id": 4,
+        "title": "Red Dead Redemption 2",
+        "image": "1665253061_cover.jpg",
+        "price": 1600,
+        "description": "Дикий Захід, відкритий світ і глибока сюжетна лінія"
+    },
+    {
+        "id": 5,
+        "title": "Minecraft",
+        "image": "Homepage_Discover-our-games_MC-Vanilla-KeyArt_864x864.jpg",
+        "price": 800,
+        "description": "Пісочниця з можливістю будівництва та виживання"
+    },
+    {
+        "id": 6,
+        "title": "Fortnite",
+        "image": "images.jfif",
+        "price": 0,
+        "description": "Популярний королівський бій з унікальним будівництвом"
+    },
+    {
+        "id": 7,
+        "title": "Call of Duty: Warzone",
+        "image": "800px-COD_Warzone.jpg",
+        "price": 0,
+        "description": "Безкоштовний королівський бій з динамічним геймплеєм"
+    },
+    {
+        "id": 8,
+        "title": "FIFA 24",
+        "image": "images (1).jfif",
+        "price": 1400,
+        "description": "Футбольний симулятор з найкращою графікою та фізикою"
+    },
+    {
+        "id": 9,
+        "title": "NBA 2K24",
+        "image": "1688802271_library_600x900_2x.jpg",
+        "price": 1300,
+        "description": "Найпопулярніший симулятор баскетболу"
+    },
+    {
+        "id": 10,
+        "title": "Hogwarts Legacy",
+        "image": "1664820030_hogwarts-legacy.jpg",
+        "price": 1700,
+        "description": "Пригодницька гра у всесвіті Гаррі Поттера"
+    },
+    {
+        "id": 11,
+        "title": "Among Us",
+        "image": "images (2).jfif",
+        "price": 200,
+        "description": "Соціальна гра з елементами обману та командної роботи"
+    },
+    {
+        "id": 12,
+        "title": "Valorant",
+        "image": "images (3).jfif",
+        "price": 0,
+        "description": "Тактичний шутер з героями та унікальними здібностями"
+    },
+    {
+        "id": 13,
+        "title": "League of Legends",
+        "image": "images (4).jfif",
+        "price": 0,
+        "description": "MOBA з безліччю чемпіонів та кіберспортивною сценою"
+    },
+    {
+        "id": 14,
+        "title": "Dota 2",
+        "image": "images (5).jfif",
+        "price": 0,
+        "description": "MOBA з глибоким і стратегічним геймплеєм"
+    },
+    {
+        "id": 15,
+        "title": "Overwatch 2",
+        "image": "images (6).jfif",
+        "price": 1000,
+        "description": "Командний шутер з героїчними здібностями"
+    },
+    {
+        "id": 16,
+        "title": "Starfield",
+        "image": "images (7).jfif",
+        "price": 1800,
+        "description": "Космічне RPG з відкритим світом"
+    },
+    {
+        "id": 17,
+        "title": "Elden Ring",
+        "image": "images (8).jfif",
+        "price": 1600,
+        "description": "Хардкорне RPG у відкритому фентезійному світі"
+    },
+    {
+        "id": 18,
+        "title": "Diablo IV",
+        "image": "images (9).jfif",
+        "price": 1700,
+        "description": "Екшн-RPG з похмурою атмосферою та кооперативним режимом"
+    },
+    {
+        "id": 19,
+        "title": "Resident Evil 4 Remake",
+        "image": "EVWyZD63pahuh95eKloFaJuC.avif",
+        "price": 1500,
+        "description": "Перероблена класика жахів з сучасною графікою"
+    },
+    {
+        "id": 20,
+        "title": "The Last of Us Part I",
+        "image": "The_Last_of_Us_Part_I_-_Обложка.png",
+        "price": 1800,
+        "description": "Покращена версія культової історії виживання"
+    },
+    {
+        "id": 21,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "image": "TLoZ_BotW_boxart.png",
+        "price": 1700,
+        "description": "Пригодницька гра у відкритому світі з магією та головоломками"
+    },
+    {
+        "id": 22,
+        "title": "Super Mario Odyssey",
+        "image": "images (10).jfif",
+        "price": 1500,
+        "description": "Платформер з неперевершеним геймплеєм"
+    },
+    {
+        "id": 23,
+        "title": "Assassin's Creed Valhalla",
+        "image": "AC_Valhalla_standard_edition.jpg",
+        "price": 1400,
+        "description": "Пригодницький екшн у сеттингу вікінгів"
+    },
+    {
+        "id": 24,
+        "title": "Far Cry 6",
+        "image": "images (11).jfif",
+        "price": 1300,
+        "description": "Шутер у відкритому світі з безліччю місій"
+    },
+    {
+        "id": 25,
+        "title": "Dead Space Remake",
+        "image": "Dead_Space_2022_Teaser_Art.jpg",
+        "price": 1600,
+        "description": "Хоррор у космосі з оновленою графікою"
+    },
+    {
+        "id": 26,
+        "title": "Halo Infinite",
+        "image": "images (12).jfif",
+        "price": 1200,
+        "description": "Футуристичний шутер з багатокористувацьким режимом"
+    },
+    {
+        "id": 27,
+        "title": "Pokémon Scarlet",
+        "image": "109312629-jpg_1.jpg",
+        "price": 1500,
+        "description": "Нова гра з покемонами та відкритим світом"
+    }
+
+]
